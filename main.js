@@ -50,7 +50,7 @@ new Vue({
     // adds special dates to v-calendar attributes:
     this.attributes.push({
       key: 'specialDays',
-      highlight: 'red',
+      highlight: 'orange',
       popover: {
         label: 'Special Day!'
       },
